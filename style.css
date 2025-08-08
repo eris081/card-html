@@ -3,12 +3,13 @@
     padding: 0px;
     font-size:16px;
     font-weight: 400;
+    color: white;
 }
 
 
 .container{
 
-    background-color:white;
+    background-color:rgb(36, 37, 83);
     border-radius: 10px;
     padding:8px;
     margin-left: auto;
