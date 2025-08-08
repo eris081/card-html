@@ -1,0 +1,60 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-size:16px;
+    font-weight: 400;
+}
+
+
+.container{
+
+    background-color:white;
+    border-radius: 10px;
+    padding:8px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+
+}
+.chip{
+    width:fit-content;
+    background-color:blueviolet;
+    padding:3px 10px;
+    font-size: 10px;
+
+ }
+.img-adj{
+    width:20%;
+}
+.product-name{
+    font-size: 20px;
+    font-weight: bolder;
+}
+.desc{
+    font-size:10px;
+    color: grey;
+}
+.price{
+    font-weight: bold;
+}
+.btn{
+    background-color:gray;
+    border: none;
+    padding: 5px 10px;
+    color:black;
+    border-radius: 3px;
+    font-size: 12px;
+}
+.btn-grey{
+    background-color:grey;
+    color: black;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 3px;
+    font-size: 12px;
+}
+.img-adj{
+    width: 40px;
+    display: block;
+    margin: 0 auto;
+}
